@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.container {
+  width: 75vw;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 30vw;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  outline-width: 0;
+}
+
+.plus, .minus {
+  margin-left: 0px;
+}
+
+.plus {
+    background-color: rgb(46, 109, 224);
+    border-radius: 1em;
+    color: white;
+}
+
+.minus {
+  background-color: rgb(13, 190, 37);
+  border-radius: 1em;
+  color: white;
+}
+
+.delete {
+  background-color: red;
+  border-radius: 1em;
+  color: white;
+}
+
+.list {
+  background-color: rgb(25, 175, 212);
+  border-radius: 1em;
+  color: white;
+  height: 40px;
+  width: 200px;
+  font-size: 25px;
+}
+
+.input {
+  height: 40px;
+  width: 200px;
+  border-radius: 1em;
+  text-align: center
+}
+/* ADDED HERE  */

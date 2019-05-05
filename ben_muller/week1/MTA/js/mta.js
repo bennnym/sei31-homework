@@ -58,7 +58,7 @@ const planTrip = function( lineA, start, lineB, stop ) {
 
 // allow the html to interact 
 
-//planTrip('nLine','Times Square',"lLine",'6th')
+planTrip('nLine','Times Square',"lLine",'6th')
 //planTrip('sixLine', 'Grand Central', 'lLine', 'Union Square')
 //planTrip('nLine','8th(n)','nLine','8th(n)')
 //planTrip('sixLine', 'Union Square', 'nLine', '8th(n)')
