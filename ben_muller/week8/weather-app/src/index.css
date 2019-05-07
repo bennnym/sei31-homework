@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Just Another Hand', cursive;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.current {
+  display: flex;
+  flex-direction: row;
+  text-transform: capitalize;
+}
+
+.jumbotron {
+  font-family: 'Just Another Hand', cursive;
+  background-color: antiquewhite;
+  font-size: 30px;
+}
+
+.hourly {
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+  white-space: nowrap;
+  font-family: 'Just Another Hand', cursive;
+
+}
+
+.mini {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  text-align: center;
+  border: 1px grey solid;
+  padding: 10px;
+  font-family: 'Just Another Hand', cursive;
+  font-size: 30px;
+
+}
+
+span {
+  font-size: 15px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.main-display {
+  margin-top: 9px;
+
+}
+
+.city {
+  margin-bottom: 20px;
+}
+
+.mini-img {
+  height: 70px;
+}
+
+.btn btn-secondary active {
+  font-size: 40px;
+}
+
+#toggle {
+      font-size: 23px;
+      letter-spacing: 4px;
+}
+
+.input {
+    font-family: 'Just Another Hand',cursive;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+input {
+  border-radius: 1em;
+  text-align: center;
+  margin-left: 20px;
+  outline: none;
+}
+
+.submit {
+  background-color: bisque;
+  margin-left: 50px;
+  width: 150px;
+}
+
+.container {
+  margin-top: 50px;
+}
