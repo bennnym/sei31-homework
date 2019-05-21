@@ -15,7 +15,7 @@ const happyNums = {
     //   sum += digit * digit;
     //   num = (num - digit) / 10;
     // }
-    console.log(sum);
+    // console.log(sum);
     return sum;
   },
 
@@ -28,8 +28,6 @@ const happyNums = {
     while (true) {
       squareSum = this.squareSumHelper(squareSum);
       console.log("================================");
-
-      console.log("squareSum", squareSum);
 
       if (squareSum === 1) {
         console.log("squareSum is now 1 we have found a happy number", num);
@@ -44,6 +42,7 @@ const happyNums = {
       cycle[squareSum] = true;
       count++;
       console.log("cycle", cycle);
+      console.log("squareSum", squareSum);
     }
   },
 
