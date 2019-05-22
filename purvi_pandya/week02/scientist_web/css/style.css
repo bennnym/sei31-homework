@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-3d-block-background-image-and-whitestereoscopic3dlight-and-image_49568.jpg");
+}
+
+.container {
+  max-width: 960px;
+  margin:0 auto;
+  background-color: #c0c0c0;
+  padding: 1em;
+  border-radius: 1em;
+}
+div.biography{
+  width:105%;
+  margin-top: 5em;
+}
+
+div.award{
+  margin-top: 5em;
+  background-color: #c5bcbc;
+}
+nav{
+  background-color: #000;
+  padding: 1em 0;
+  text-align: center;
+  border-radius: 0.5em;
+  position: fixed;
+  margin: 0 auto;
+  width:960px;
+  top:0;
+
+}
+nav a{
+  background-color: #00b6ffa3;
+  color: #000;
+  text-decoration: none;
+  padding: 1em;
+  letter-spacing: 0.1em;
+  border-radius: 1em;
+  top:
+}
+nav a:hover{
+  background-color: #fff;
+}
+h1 {
+  text-align: center;
+  text-shadow:0 0 30px #00b6ff;
+  margin-top: 2em;
+  font-family: 'Berkshire Swash', cursive;
+}
+h5{
+  font-size: 14px;
+  font-style: italic;
+  color:;
+}
+main {
+  display: inline-block;
+  width: 70%;
+}
+main img {
+  display: block;
+  shadow: 0 0 15px blue;
+  border-radius: 3em;
+  border: 5px solid #c0c0c0;
+}
+p{
+text-align: justify;
+/*margin-right:10em;*/
+font-size: 17px;
+}
+span{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+
+}
+aside{
+  display: inline-block;
+  width: 25%;
+  vertical-align: top;
+  background-color: #655e7578;
+  padding: 1em;
+  border-radius: 0.5em;
+  box-shadow: 0 0 15px #222;
+  margin-top: 15px;
+}
+
+h2{
+  font-family: 'Berkshire Swash', cursive;
+  text-shadow:0 0 30px #00b6ff;
+}
+
+h2{ text-align: center;}
+
+aside img{
+  height: 350px;
+  width: 250px;
+}
+
+aside ul {
+  padding: 17px;
+  line-height: 1.5em;
+}
+
+.biography img{
+  padding-left:8em;
+  width: 74%;
+}
+
+.biography p{
+  text-align: justify;
+  padding:0 7.5em;
+}
+
+div.column{
+  display: inline;
+  height:300px;
+  width: 300px;
+  margin: 0 1em;
+  padding: 0 10px;
+  text-align: justify;
+}
+
+article p{
+  text-align: justify;
+  padding: 10px;
+}
+h4{
+  text-align: center;
+
+}

@@ -1,0 +1,13 @@
+<h1>All Oceans</h1>
+
+<% @oceans.each do |ocean| %>
+<%= image_tag ocean.image, :class => 'feature' %>
+
+  <ul>
+    <li>Name: <%= link_to ocean.name, ocean_path(ocean.id) %></li>
+    <li>Size: <%= number_to_human ocean.size %> km²</li>
+    <li>Volume: <%= number_to_human ocean.volume %> km³</li>
+    <li>Depth: <%= ocean.depth %> m</li>
+    <li>Fact: <%= ocean.fact %> </li>
+  </ul>
+<% end %>

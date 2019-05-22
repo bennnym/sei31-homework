@@ -1,0 +1,5 @@
+<h2>List of Restaurants</h2>
+
+<% @restaurants.each do |r| %>
+<p><a href="/restaurants/<%= r["id"] %>"><%= r["name"] %></a></p>
+<% end %>

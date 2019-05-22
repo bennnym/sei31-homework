@@ -1,0 +1,14 @@
+<%= image_tag @ocean.image, :class => 'feature' %>
+
+  <ul>
+    <li>Name: <%=  @ocean.name %></li>
+    <li>Size (kilometres squared): <%= number_to_human @ocean.size %> km²</li>
+    <li>Volume (cubic kilometres): <%= number_to_human @ocean.volume %> km³</li>
+    <li>Depth (in metres): <%= @ocean.depth %> metres</li>
+    <li>Fact: <%= @ocean.fact %> </li>
+  </ul>
+
+<div class="controls">
+  <%= link_to 'Edit Ocean', edit_ocean_path(@ocean), :class => "controller" %>
+  <%= link_to 'Delete Ocean', ocean_path(@ocean), :method => 'delete', :class => "controller" %>
+</div>

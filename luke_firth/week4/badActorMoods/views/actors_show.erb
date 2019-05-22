@@ -1,0 +1,19 @@
+<h2><%= @actor["firstName"]%> <%= @actor["lastName"]%></h2>
+
+<% unless @actor.mood.nil? %>
+  <h3>
+    Actor Mood:
+    <a href="/moods/<%= @actor.mood.id %>">
+      <%= @actor.mood.firstName %>
+    </a>
+  </h3>
+<% end %>
+
+<% unless @actor["image"].nil? %>
+  <img class="feature" src="<%= @actor["image"] %>" alt="<%= @actor["name"] %>">
+<% end %>
+
+<div class="controls">
+  <a href="/actors/<%= @actor["id"] %>/edit">Edit</a>
+  <a href="/actors/<%= @actor["id"] %>/delete">Delete</a>
+</div>

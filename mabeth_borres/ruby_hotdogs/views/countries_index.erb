@@ -1,0 +1,18 @@
+<h2>All Countries with Awesome Hotdogs</h2>
+
+
+  <table>
+    <% @countries.each do |h| %>
+    <tr>
+        <td><a href="/countries/<%= h.id %>">
+          <%= h.name %>
+        </a></td>
+        <td>
+        <% unless h.flag.nil? %>
+        <a href="/countries/<%= h.id %>"><img class="indexpageImg" src="<%= h.flag %>" alt="<%= h.name %>"></a>
+        <% end %>
+        </td>
+    <tr>
+    <% end %>
+  </table>
+

@@ -1,0 +1,16 @@
+<h2><%= @ocean.name %></h2>
+
+<%= image_tag @ocean.image, :class => 'feature' if @ocean.image.present? %>
+
+<h3>Location: <%= @ocean.location %></h3>
+<ul>
+  <li><em>Area:</em> <%= number_with_delimiter @ocean.area %> km<sup>2</sup></li>
+  <li><em>Volume:</em> <%= number_with_delimiter @ocean.volume %> km<sup>3</sup></li>
+  <li><em>Depth:</em> <%= number_with_delimiter @ocean.depth %> m</li>
+  <li><em>Coastline:</em> <%= number_with_delimiter @ocean.coastline %> km</li>
+</ul>
+
+<div class="controls">
+  <%= link_to 'Edit Ocean', edit_ocean_path(@ocean.id), :class => 'do' %>
+  <%= link_to 'Delete Ocean', ocean_path(@ocean.id), :method => 'delete', :data => {:confirm => 'Are you sure?'}, :class => 'do' %>
+</div>

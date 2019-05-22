@@ -1,0 +1,60 @@
+.logo-container{
+  margin: auto;
+  width: 400px;
+  position: relative;
+}
+img{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.game{
+margin-top: 230px;
+height: 380px;
+z-index: 1;
+}
+
+.lc{
+margin-top: 150px;
+margin-left: -130px;
+height: 280px;
+display: inline-block;
+text-align: center;
+animation: rotation 10s infinite linear;
+
+}
+
+.mc{
+margin-top: 190px;
+margin-left: -93px;
+height: 200px;
+display: inline-block;
+animation: mrotation 10s infinite linear;
+}
+
+.c{
+  margin-top: 238px;
+  margin-left: -43px;
+  height: 100px;
+  display: inline-block;
+  animation: rotation 10s infinite linear;
+}
+
+@keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}
+@keyframes mrotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(-359deg);
+		}
+}

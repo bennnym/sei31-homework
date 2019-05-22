@@ -1,0 +1,13 @@
+<h2>Edit a Cuisine</h2>
+
+<form action="/cuisines/<%= @cuisine["id"] %>" method="post">
+  <label>
+    Cuisine Name:
+    <input type="text" name="name" value="<%= @cuisine["name"] %>">
+  </label>
+  <label>
+    Image:
+    <input type="text" name="image" value="<%= @cuisine["image"] %>">
+  </label>
+  <button name="button">Update Details</button>
+</form>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Games</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Mali');
+    </style>
+  </head>
+
+  <body >
+    <div class="container">
+    <nav>
+      <%= link_to "Home", root_path %>
+      <%= link_to "Magic 8 Ball", magicball_path %>
+      <%= link_to "Number Guess", numberguess_path %>
+      <%= link_to "Rock-Paper-Scissors", rockpaperscissors_path %>
+    </nav>
+    <%= yield %>
+    </div>
+  </body>
+</html>

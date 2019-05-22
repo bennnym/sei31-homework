@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dog Lookup</title>
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css'>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/underscore.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/search.js"></script>
+</head>
+<body>
+
+  <div class="container">
+
+    <!--
+    <h1>Image Search</h1>
+
+    <form id="search">
+      <label>
+        Search terms:
+        <input type="search" id="query" required autofocus placeholder="butterfly">
+      </label>
+
+      <button>Search</button>
+    </form>
+
+    <div id="images"></div>
+  -->
+
+  <div class="api-side">
+    <h3>Dog Lookup API</h3>
+    <div style="display: block;">
+      <!-- div class="code-wrapper breeds" -->
+    <!-- span class="code" -->
+    <!--  https://dog.ceo/api/breed/<select class="dog-selector"></select>/images/random  -->
+    <!--/span -->
+    <!--a href='javascript:void(0);' class='get-dog button'>Fetch!</a-->
+    <form id="search">
+        <!-- label>
+          https://dog.ceo/api/breed/<select class="dog-selector"></select>/images/random
+        </label -->
+        Select Breed: <select class="dog-selector"></select>
+        <button>Search</button>
+    </form>
+    </div>
+
+    <br>
+    <div class="demo-image"></div>
+
+
+    <br><br>
+    Powered By: <a href="https://dog.ceo/dog-api/">Dog API</a>
+  </div> <!--container-->
+
+</body>
+</html>

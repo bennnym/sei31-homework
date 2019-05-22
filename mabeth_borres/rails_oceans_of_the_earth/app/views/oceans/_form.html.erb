@@ -1,0 +1,33 @@
+<%= form_for @ocean do |f| %>
+    <br><%= f.label :name %>
+    <br><%= f.text_field :name, :autofocus => true, :required => true, :maxlength => '50' %>
+    
+    <br><br><%= f.label :continents %>
+    <br>
+    <% @continentslookup.each do |key, val| %>
+        <% if val == "" %>
+        <%= check_box_tag('continents[]', key ) %>
+        <% else %>
+        <%= check_box_tag('continents[]', key, val ) %>
+        <% end %>
+        <%= label_tag(:continents, key ) %>
+        <br>
+    <% end %>
+
+    <br><%= f.label :area %> in Square Kilometers
+    <br><%= f.text_field :area %>
+    
+    <br><br><%= f.label :volume %>
+    <br><%= f.text_field :volume %>
+    
+    <br><br><%= f.label :depth %>
+    <br><%= f.text_field :depth %>
+    
+    <br><br><%= f.label :knownexplorers, "Known Explorers" %>
+    <br><%= f.text_field :knownexplorers, :placeholder => 'Christopher Columbus', :maxlength => '100' %>
+    
+    <br><br><%= f.label :image %>
+    <br><%= f.url_field :image %>
+    <br><br>
+    <%= f.submit :class => 'button' %>
+<% end %>

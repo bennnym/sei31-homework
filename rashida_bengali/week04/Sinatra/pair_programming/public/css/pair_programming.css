@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1em;
+  color: white;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  margin: 10px;
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+.yes {
+  background-color: green;
+}
+
+.no {
+  background-color: red;
+}
+
+.other {
+  background-color: blue;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel:400,700,900');
+
+body{
+  background-image: url("nic.svg");
+  background-repeat: no-repeat;
+  background-size: 400px;
+  text-align: center;
+  background-color: rgb(247, 80, 75);
+}
+h1{
+  font-size: 20px;
+  margin-top: 300px;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.73);
+  letter-spacing: 5px;
+}

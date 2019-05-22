@@ -1,0 +1,44 @@
+body {
+  height: 0px;
+  max-width: 960px;
+  box-sizing: border-box;
+  background-color: pink;
+  animation: blink: 1s infinite ease;
+}
+
+/* .container {
+    position: relative;
+} */
+
+@keyframes blink {
+  0% {background-position: 0% 50%}
+	50% { background-position: 100% 50% }
+	100% {background-position: 0% 50%}
+}
+
+/* body:hover {
+  /* background-color: white; */
+  /* cursor: pointer; */
+  /* transition: background-color 1s ease-out 1s; */
+
+
+img {
+  /* margin: 20px;
+  width: 100px;
+  height: 100px; */
+  /* background: #f00; */
+
+  /* The animation part: */
+  animation-name: spin;
+  animation-duration: 400ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@keyframes spin {
+  from {transform:rotate(0deg);}
+  to {transform:rotate(360deg);}
+}
+
+/* img:hover {
+  /* transform: rotate3d(0, 1, 0, 180deg);
+} */

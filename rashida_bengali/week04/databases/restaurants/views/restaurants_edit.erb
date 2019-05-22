@@ -1,0 +1,26 @@
+<h2>Edit Restaurant Details</h2>
+
+<form action="/restaurants/<%= @restaurant["id"] %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" value="<%= @restaurant["name"] %>" placeholder="Restaurant Name" required autofocus>
+  </label>
+
+  <label>
+    Cuisine:
+    <input type="text" name="cuisine" value="<%= @restaurant["cuisine"] %>" placeholder="Cuisine Type">
+  </label>
+
+  <label>
+    Location:
+    <input type="text" name="location" value="<%= @restaurant["location"] %>" placeholder="Suburb Name">
+  </label>
+
+  <label>
+    Image:
+    <input type="url" name="image" value="<%= @restaurant["image"] %>" placeholder="http://....">
+  </label>
+
+  <button>Update Details</button>
+
+</form>

@@ -1,0 +1,95 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  /* border: 1px solid red; */
+}
+
+body, html {
+  margin:auto;
+  height: 0;
+  font-family: 'Raleway', sans-serif;
+  background-color: lightgrey;
+}
+
+.container {
+  max-width: 80%;
+  margin: auto;
+  height: 0;
+}
+
+header {
+  padding: 15px;
+  margin: 2%;
+  text-align: center;
+}
+
+nav {
+  /* display: inline-block; */
+  text-transform: uppercase;
+  font-size: 120%;
+  letter-spacing: 2px;
+  margin-left: 2%;
+  margin-right: 2%;
+  /* margin-left: 150px; */
+}
+
+a {
+  background-color: lightgrey;
+  text-decoration: none;
+  color: black;
+  padding: 0 15px;
+  /* margin: 1px; */
+}
+
+a:hover {
+  transition: 1s;
+  background-color: darkgrey;
+  color: white;
+}
+
+h1, h2 {
+  text-align: center;
+  background-color: lightgrey;
+  padding: 12px 0;
+}
+
+main {
+  display: inline-block;
+}
+
+img {
+  max-width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  /* display: ; */
+  padding: 10px;
+  line-height: 1.5em;
+  max-width: 60%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+/* .para {
+  color:white;
+}
+
+.para:hover {
+  animation-timing-function: ease-in;
+  transition: 2s;
+  animation-timing-function: linear;
+  color: black;
+  visibility: visible;
+} */
+
+iframe {
+
+  max-width: 100%;
+
+  padding: 15px 0;
+}

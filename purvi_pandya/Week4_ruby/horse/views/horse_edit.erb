@@ -1,0 +1,20 @@
+<h2>Edit Horses</h2>
+
+<form action="/horse/ <%= @horse["id"] %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" value="<%= @horse["name"] %>" required autofocus>
+  </label>
+
+  <label>
+    Type:
+    <input type="text" name="type" value="<%= @horse["type"] %>">
+  </label>
+
+  <label>
+    Image:
+    <input type="url" name="image" value="<%= @horse["image"] %>">
+  </label>
+
+  <button>Create Image</button>
+</form>

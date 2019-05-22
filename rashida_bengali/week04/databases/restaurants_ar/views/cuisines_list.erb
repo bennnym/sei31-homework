@@ -1,0 +1,5 @@
+<h2>Type of Cuisines</h2>
+
+<% @cuisines.each do |c| %>
+<p><a href="/cuisines/<%= c.id %>"><%= c.name %></a></p>
+<% end %>

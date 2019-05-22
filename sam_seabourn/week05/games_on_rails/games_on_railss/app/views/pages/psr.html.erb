@@ -1,0 +1,14 @@
+<h1>Paper Scissors Rock!</h1>
+
+<form action="/psr" method="post">
+<select name="userpick" id="">
+  <option value="Paper">Paper</option>
+  <option value="Scissors">Scissors</option>
+  <option value="Rock">Rock</option>
+</select>
+<button>Submit</button>
+</form>
+
+<h1>Computer Picked: <%= @computer_pick %></h1>
+<h1>You Picked: <%= @userpick %></h1>
+<h1><%= @result %></h1>

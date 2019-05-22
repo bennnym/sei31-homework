@@ -1,0 +1,108 @@
+/* * {
+  border: 1px solid magenta;
+} */
+body{
+  background-image: url("http://cdn.collider.com/wp-content/uploads/pokemon-list.png");
+  background-color: rgba(1, 0, 0, 0.5);
+  background-position: center center;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 45px;
+  color: white;
+  background-color: black;
+}
+
+.navlinks{
+  justify-content: center;
+  padding-top: 1.1%;
+  position: relative;
+  padding-right: 1%;
+  width: 120px;
+  height: 100px;
+  top: -34px;
+  right: -20px;
+  text-align: center;
+  background-color: white;
+  border-radius: 60px;
+  padding: 0px;
+  padding-top: 18px;
+  box-shadow: 13px 9px 37px 9px rgba(0,0,0,0.51);
+}
+
+
+.navtitle,h1{
+  margin: 1px;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.display_content{
+ text-align: center;
+ background-color: white;
+ width: 66%;
+ height: 66%;
+ min-width: 880px;
+ min-height: 480px;
+ box-shadow: 13px 9px 37px 9px rgba(0,0,0,0.51);
+ border-radius: 10px;
+
+}
+
+h1 {
+  font-family: 'Jua', sans-serif;
+}
+h2 {
+  font-family: 'Jua', sans-serif;
+}
+
+a {
+  display: block;
+  font-size: 1.2em;
+  font-family: 'Jua', sans-serif;
+  text-decoration: none;
+  color: red;
+}
+
+
+form {
+  display: inline-block;
+}
+
+.pokemondisplay {
+  display: flex;
+  margin-top: 8%;
+}
+
+.pokemondisplaysmall, img {
+    justify-content: center;
+    display: flex;
+    width: 20em;
+    max-height: 300px;
+    width: auto;
+    margin: 2em auto;
+}
+
+.pokemondisplay img {
+    width: auto;
+    height: 114px;
+    margin-top: 8em;
+}
+
+
+.innerpad {
+  padding:1em;
+}

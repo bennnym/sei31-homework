@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+html{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  top: 100px;
+}
+.home{
+position: absolute;
+left: 20px;
+text-decoration: none;
+color: white;
+font-family: 'Roboto', sans-serif;
+margin-top: 17px;
+}
+body {
+  background-image: url("bookbg.png");
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    color: rgb(224, 224, 224);
+  }
+
+  img{
+    padding-top: 20px;
+    border-radius:5px;
+  }
+  h1{
+    padding-top: 20px;
+  }
+  h2{
+    padding-top: 20px;
+  }
+p{
+  padding: 20px;
+}
+  header{
+    background-color: rgba(112, 112, 112, 0.4);
+    padding-bottom: 30px;
+    width: 100%;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(224, 224, 224);
+  }

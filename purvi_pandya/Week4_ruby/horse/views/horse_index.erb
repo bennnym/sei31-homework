@@ -1,0 +1,10 @@
+<h2>My Favorite Horses</h2>
+<% @horse.to_s %>
+
+<% @horse.each do |horse| %>
+<p>
+  <a class="link" href="/horse/<%= horse["id"] %>">
+    <%= horse["name"] %>
+  </a>
+</p>
+<% end %>

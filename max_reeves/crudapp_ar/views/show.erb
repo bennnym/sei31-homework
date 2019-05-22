@@ -1,0 +1,9 @@
+<div>
+	<h1>Name: <%= @cheese.name %></h1>
+	<h1>Type: <%= @cheese.texture %></h1>
+	<img src="<%= @cheese.image %>" alt="<%= @cheese.name %>"/>
+	<nav>
+		<a href="/cheeses/edit/<%= @cheese.id %>">Edit this Cheese</a>
+		<a href="/cheeses/<%= @cheese.id %>/delete/">Delete this Cheese</a>
+	</nav>
+</div>

@@ -1,0 +1,33 @@
+<h2>Add New Ocean</h2>
+
+<form action="<%= oceans_path %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" placeholder="Ocean Name" required autofocus>
+  </label>
+  <label>
+    Location:
+    <input type="text" name="location" placeholder="Ocean Location">
+  </label>
+  <label>
+    Area:
+    <input type="number" name="area" placeholder="Area in square kms">
+  </label>
+  <label>
+    Volume:
+    <input type="number" name="volume" placeholder="Volume in cubic kms">
+  </label>
+  <label>
+    Depth:
+    <input type="number" name="depth" placeholder="Depth in m" required autofocus>
+  </label>
+  <label>
+    Coastline:
+    <input type="number" name="coastline" placeholder="Coastline in km">
+  </label>
+  <label>
+    Image:
+    <input type="url" name="image" placeholder="http://">
+  </label>
+  <button>Create Ocean</button>
+</form>

@@ -1,0 +1,13 @@
+<h2>Edit this Cheese</h2>
+<form action="/cheeses/<%= @cheese.id %>" method="post">
+  Name of Cheese:<br>
+  <input type="text" name="name" placeholder="Insert Cheese Name" value="<%= @cheese.name %>">
+  <br><br>
+  Type of Cheese:<br>
+  <input type="text" name="texture" placeholder="Soft, Hard?" value="<%= @cheese.texture %>">
+  <br><br>
+	Image:<br>
+	<input type="text" name="image" placeholder="Insert URL">
+	<br><br>
+	 <input type="submit" value="Submit">
+</form>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Oceans</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Mali');
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <nav>
+        <%= link_to 'Oceans', root_path %>
+        <%= link_to 'New Ocean', new_ocean_path %>
+      </nav>
+      <%= yield %>
+    </div>
+  </body>
+</html>

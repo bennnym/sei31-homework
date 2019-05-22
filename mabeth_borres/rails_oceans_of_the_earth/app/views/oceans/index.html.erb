@@ -1,0 +1,12 @@
+<h1>Oceans of the Earth</h1>
+
+<% @oceans.each do |ocean| %>
+    <%if ocean.image.present? %><%= image_tag ocean.image, :class => 'thumb' %><% end %>
+        <br>Name: <%= link_to ocean.name, ocean_path(ocean.id) %><br>
+        Continents: <br><%= ocean.continents %><br>
+        Area: <%if ocean.area.present? %><%= number_to_human ocean.area %><% end %> sq. kms.<br>
+        Volume: <%if ocean.area.present? %><%= number_to_human ocean.volume %><% end %> cu. kms.<br>
+	    Depth: <%if ocean.area.present? %><%= number_to_human ocean.depth %><% end %> meters<br>
+	    Known Explorers: <br><%= ocean.knownexplorers %><br>
+<% end %>
+    <br><br>

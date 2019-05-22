@@ -1,0 +1,10 @@
+<img src="<%= @pokemon["image"] %>" alt="<%= @pokemon["name"] %>" class="pokemondisplaysmall">
+<h2>Pokemon: <%= @pokemon["name"] %></h2>
+<h2>Nickname: <%= @pokemon["nickname"] %></h2>
+
+<% if @pokemon["type1"] == @pokemon["type2"] %>
+  <h2>Type: <%= @pokemon["type1"] %></h2>
+  <% end %>
+<% if @pokemon["type1"] != @pokemon["type2"] %>
+  <h2>Type: <%= @pokemon["type1"] %>/<%= @pokemon["type2"] %></h2>
+  <% end %>

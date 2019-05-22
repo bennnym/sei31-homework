@@ -1,0 +1,49 @@
+<h2><%= @hotdog["name"] %></h2>
+<h3>Description: <em><br>
+<%= @hotdog["description"] %></em></h3>
+
+  <h3>
+    Country of Origin:
+    <a href="/countries/<%= @hotdog.country.id %>">
+      <%= @hotdog.country.name %>
+    </a>
+  </h3>
+
+<% unless @hotdog["image"].nil? %>
+  <img src="<%= @hotdog["image"] %>" alt="<%= @hotdog["name"] %>">
+<% end %>
+
+<% unless @hotdog.ingredients.empty? %>
+  <h3>Ingredients:</h3>
+    <% @hotdog.ingredients.each do |h| %>
+      <%= h.name %><br>
+    <% end %>
+<% end %>
+
+<% unless @hotdog.toppings.empty? %>
+  <h3>Toppings:</h3>
+  <table>
+    <% @hotdog.toppings.each do |h| %>
+    <tr>
+        <td><a href="/toppings/<%= h.id %>">
+          <%= h.name %>
+        </a></td>
+        <td>
+        <% if h.image.nil? %>
+          <% timage = Toppinglookup.find h.toppinglookup_id %>
+          <% h.image = timage.image %>
+        <% end %>
+        <% unless h.image.nil? %>
+        <a href="/toppings/<%= h.id %>"><img class="indexpageImg" src="<%= h.image %>" alt="<%= h.name %>"></a>
+        <% end %>
+        </td>
+    </tr>
+    <% end %>
+  </table>
+<% end %>
+
+
+<div class="controls">
+  <a href="/hotdogs/<%= @hotdog["id"] %>/edit">Edit</a>
+  <a href="/hotdogs/<%= @hotdog["id"] %>/delete">Delete</a>
+</div>

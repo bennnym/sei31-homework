@@ -1,0 +1,11 @@
+<h2><%= @laugh["name"] %></h2>
+<h3>Laugh: <em> <%= @laugh["laugh"] %> </em></h3>
+
+<% unless @laugh["gif"].nil? %>
+<img class="feature" src="<%= @laugh["gif"] %>" alt="<%= @laugh["name"] %>">
+<% end %>
+
+<div class="controls">
+  <a href="/laugh/<%= @laugh["id"] %>/edit">edit</a>
+  <a href="/laugh/<%= @laugh["id"] %>/delete">delete</a>
+</div>

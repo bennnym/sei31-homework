@@ -1,0 +1,14 @@
+<h2>All Wonderful Books</h2>
+<% @stories.to_s %>
+
+
+ <% @stories.each do |story|  %>
+ <p>
+   <a href="/stories/<%= story["id"]%>">
+
+   <%= story["name"] %>
+ </a>
+ </p>
+ <% end %>
+
+ 

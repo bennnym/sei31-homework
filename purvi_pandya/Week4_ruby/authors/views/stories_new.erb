@@ -1,0 +1,30 @@
+<h2>My favoutite Books</h2>
+<form action="/stories" method="post">
+  <label>
+  Book Name:
+  <input type="text" name="name" placeholder="Write book name" required autofocus>
+  </label>
+
+  <label>
+  Type of Book:
+  <input type="text" name="family" placeholder="Write type of book">
+  </label>
+
+  <label>
+  Image:
+  <input type="text" name="image" placeholder="http://.....">
+  </label>
+  <label>
+    Famous Author:
+    <select name="author_id">
+      <option></option>
+      <% Author.all.each do |author| %>
+      <option value="<%= author.id %>"><%= author.name %>
+      </option>
+      <% end %>
+    </select>
+
+  </label>
+
+  <button>Create Book!!</button>
+</form>

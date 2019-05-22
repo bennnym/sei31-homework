@@ -1,0 +1,10 @@
+<h2>Beautiful Horses are coming soon</h2>
+<h3>Name: <%= @horse["name"] %></h3>
+<h3>Type: <em><%= @horse["type"] %></em></h3>
+<% unless @horse["image"].nil? %>
+<img class="new" src="<%= @horse["image"] %>" alt="<%= @horse["name"] %>">
+<% end %>
+<div class="control">
+  <a href="/horse/ <%= @horse["id"] %>/edit">EDIT</a>
+  <a href="/horse/ <%= @horse["id"] %>/delete">DELETE</a>
+</div>

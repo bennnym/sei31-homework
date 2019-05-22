@@ -1,0 +1,7 @@
+<h2>Hollywood Directors</h2>
+
+<% @directors.each do |d| %>
+<p>
+  <%= link_to d.name, director_path(d.id) %>
+</p>
+<% end %>

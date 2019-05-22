@@ -1,0 +1,9 @@
+<h1>Magic 8 Ball</h1>
+
+<%= form_tag("/magic8_ball", method: "post") do %>
+  <%= label_tag(:question, "What you want to know?") %>
+  <%= text_field_tag(:question) %>
+  <%= submit_tag("Ask question") %>
+<% end %>
+
+<%= @question_and_answer %>

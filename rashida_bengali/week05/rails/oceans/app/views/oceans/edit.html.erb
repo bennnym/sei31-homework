@@ -1,0 +1,33 @@
+<h2>Edit Details</h2>
+
+<form action="<%= ocean_path(@ocean.id) %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" value="<%= @ocean.name %>" placeholder="Ocean Name" required autofocus>
+  </label>
+  <label>
+    Location:
+    <input type="text" name="location" value="<%= @ocean.location %>" placeholder="Ocean Location">
+  </label>
+  <label>
+    Area:
+    <input type="number" name="area" value="<%= @ocean.area %>" placeholder="Area in square kms">
+  </label>
+  <label>
+    Volume:
+    <input type="number" name="volume" value="<%= @ocean.volume %>" placeholder="Volume in cubic kms">
+  </label>
+  <label>
+    Depth:
+    <input type="number" name="depth" value="<%= @ocean.depth %>" placeholder="Depth in m" required autofocus>
+  </label>
+  <label>
+    Coastline:
+    <input type="number" name="coastline" value="<%= @ocean.coastline %>" placeholder="Coastline in km">
+  </label>
+  <label>
+    Image:
+    <input type="url" name="image" value="<%= @ocean.image %>" placeholder="http://">
+  </label>
+  <button>Update Details</button>
+</form>

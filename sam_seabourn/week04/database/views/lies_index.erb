@@ -1,0 +1,9 @@
+<h2>All Current Lies In Database</h2>
+
+ <% @all_lies.each do |lies| %>
+<p>
+  <a href="/lies/<%= lies["id"] %>">
+<%= lies["lie"] %>
+  </a>
+</p>
+<% end %>

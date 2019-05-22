@@ -1,0 +1,2962 @@
+Started GET "/" for ::1 at 2019-04-15 16:01:46 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 362ms (Views: 354.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:05:09 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 76ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:10:35 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 126ms (Views: 124.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:11:39 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 83ms (Views: 81.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:16:25 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 75ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:17:00 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 86ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:17:42 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:21:55 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 80ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:22:14 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:23:25 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 50ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:23:44 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 44ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:24:20 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 53ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:24:56 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 57ms (Views: 55.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:25:44 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 48ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:27:34 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:28:41 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 48ms (Views: 46.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:29:31 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 59ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:30:30 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 59ms (Views: 57.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:31:33 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:34:37 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 206ms (Views: 200.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-15 16:36:48 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 16:36:54 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 16:36:56 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 16:36:59 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 34ms (Views: 32.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:37:00 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 32ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:37:02 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 32ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:37:03 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 35ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:37:48 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:37:50 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:38:19 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:38:29 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 16:38:30 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 34ms (Views: 32.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 16:38:32 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 16:38:34 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:38:35 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 16:38:36 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 40.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 16:38:37 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:38:38 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 40ms (Views: 39.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:39:27 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:43:10 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 68ms (Views: 67.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:43:51 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (74.0ms)
+Completed 200 OK in 122ms (Views: 120.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:45:14 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 48.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 16:54:10 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 76ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 16:54:13 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 74ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8result" for ::1 at 2019-04-15 16:54:15 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/magic8result"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:54:50 +1000
+Processing by PagesController#magic8 as HTML
+Can't verify CSRF token authenticity.
+Completed 422 Unprocessable Entity in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:211:in `handle_unverified_request'
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:243:in `handle_unverified_request'
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:238:in `verify_authenticity_token'
+activesupport (5.2.3) lib/active_support/callbacks.rb:426:in `block in make_lambda'
+activesupport (5.2.3) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.2.3) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `block in invoke_before'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `each'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `invoke_before'
+activesupport (5.2.3) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.3) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.3) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:54:56 +1000
+Processing by PagesController#magic8 as HTML
+Can't verify CSRF token authenticity.
+Completed 422 Unprocessable Entity in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:211:in `handle_unverified_request'
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:243:in `handle_unverified_request'
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:238:in `verify_authenticity_token'
+activesupport (5.2.3) lib/active_support/callbacks.rb:426:in `block in make_lambda'
+activesupport (5.2.3) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.2.3) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `block in invoke_before'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `each'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `invoke_before'
+activesupport (5.2.3) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.3) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.3) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:55:12 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/magic8result"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:55:16 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/magic8result"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:55:35 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/magic8result"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:55:38 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/magic8result"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8result" for ::1 at 2019-04-15 16:57:29 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/magic8result"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/magic8" for ::1 at 2019-04-15 16:57:46 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 98ms (Views: 90.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 16:57:48 +1000
+Processing by PagesController#magic8result as HTML
+Can't verify CSRF token authenticity.
+Completed 422 Unprocessable Entity in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:211:in `handle_unverified_request'
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:243:in `handle_unverified_request'
+actionpack (5.2.3) lib/action_controller/metal/request_forgery_protection.rb:238:in `verify_authenticity_token'
+activesupport (5.2.3) lib/active_support/callbacks.rb:426:in `block in make_lambda'
+activesupport (5.2.3) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.2.3) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `block in invoke_before'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `each'
+activesupport (5.2.3) lib/active_support/callbacks.rb:513:in `invoke_before'
+activesupport (5.2.3) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.2.3) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.3) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.3) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.3) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.3) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.3) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.3) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/magic8" for ::1 at 2019-04-15 16:59:57 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 16:59:59 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 24ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 17:00:01 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 17:00:03 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 17:00:05 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 22.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 17:00:15 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 17:00:19 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:47:29 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 199ms (Views: 192.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:48:46 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 109ms (Views: 107.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:48:59 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:49:10 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 82ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:49:37 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 322ms (Views: 320.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:49:51 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:49:55 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:53:20 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:22 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:26 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:27 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:28 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:29 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 23ms (Views: 22.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:30 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:54 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:56 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 19:53:57 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 19:53:59 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:54:04 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 19:54:07 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:54:08 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 37ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 19:54:09 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 19:54:10 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 19:54:12 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:06:44 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:56: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:56: syntax error, unexpected end-of-input, expecting end
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:07:07 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:07:32 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:07:36 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumber"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:07:49 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumber"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:07:52 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumber"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2019-04-15 20:08:03 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 75ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:08:05 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:08:09 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:09:02 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:09:06 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/magic8" for ::1 at 2019-04-15 20:09:28 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 20:09:29 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 20:09:58 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 16ms (Views: 15.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 20:09:59 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 20:10:01 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:10:02 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 81ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:10:04 +1000
+  
+ActionController::RoutingError (No route matches [POST] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:10:25 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:10:27 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:10:37 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"4"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumberresult" for ::1 at 2019-04-15 20:11:39 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/magic8" for ::1 at 2019-04-15 20:11:46 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:12:13 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 37ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:12:14 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:12:18 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"8"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumberresult" for ::1 at 2019-04-15 20:12:44 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:12:54 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumberresult" for ::1 at 2019-04-15 20:12:56 +1000
+Processing by PagesController#secretnumber as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumberresult" for ::1 at 2019-04-15 20:13:27 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/secretnumberresult" for ::1 at 2019-04-15 20:15:12 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumberresult"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/home" for ::1 at 2019-04-15 20:17:49 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 44ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:17:50 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:17:51 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:18:12 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 106ms (Views: 104.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:14 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:16 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:18 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:19 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 45ms (Views: 44.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:27 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:28 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:31 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 19ms (Views: 18.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:18:34 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 16ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:19:13 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 34ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:16 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:18 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:19 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:20 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:21 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:22 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 24ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:19:25 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:21:12 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `to_i' for :userguess:Symbol
+Did you mean?  to_s):
+  
+app/controllers/pages_controller.rb:43:in `snresult'
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:21:42 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:21:45 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:21:46 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:21:49 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:22:13 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 38ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:22:18 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"4"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:23:13 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 180ms (Views: 175.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:23:15 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/controllers/pages_controller.rb:43:in `snresult'
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:24:49 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+Completed 500 Internal Server Error in 49ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/controllers/pages_controller.rb:43:in `snresult'
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:38:16 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 64ms (Views: 60.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:38:19 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+Completed 500 Internal Server Error in 283ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (undefined local variable or method `userguese' for #<PagesController:0x00007ffd656451d0>):
+  
+app/controllers/pages_controller.rb:43:in `snresult'
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:38:38 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:38:43 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 32ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:38:45 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:38:48 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:39:28 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 1, expected 0)):
+  
+app/controllers/pages_controller.rb:43:in `snresult'
+Started GET "/secretnumber1" for ::1 at 2019-04-15 20:39:45 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumber1"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:39:52 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 31ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:39:55 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber1" for ::1 at 2019-04-15 20:40:24 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumber1"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:40:27 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 38ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:40:29 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 19ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 20:40:54 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 20:41:13 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 25ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 20:41:16 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 20:42:42 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 31ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:42:44 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 90ms (Views: 88.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:42:49 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"4"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 21ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:42:57 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"6"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber1" for ::1 at 2019-04-15 20:43:32 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumber1"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:43:37 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber1" for ::1 at 2019-04-15 20:43:40 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"5"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber1" for ::1 at 2019-04-15 20:44:11 +1000
+  
+ActionController::RoutingError (No route matches [GET] "/secretnumber1"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:44:14 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 20:44:29 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:33 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"5"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:37 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"5"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:40 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"4"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:42 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:45 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"2"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 56ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:47 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"3"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:49 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"3"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:53 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:54 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:55 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 46ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:56 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:44:59 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 20:45:00 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:10:38 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 36ms (Views: 33.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:10:46 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 21:10:49 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 24ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:18:44 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+...k == "Rock" && @computer_pick "Scissors"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... == "Paper" && @computer_pick "Rock"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... "Scissors" && @computer_pick "Paper"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end
+Started GET "/secretnumber" for ::1 at 2019-04-15 21:19:04 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+...k == "Rock" && @computer_pick "Scissors"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... == "Paper" && @computer_pick "Rock"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... "Scissors" && @computer_pick "Paper"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end
+Started GET "/" for ::1 at 2019-04-15 21:19:12 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+...k == "Rock" && @computer_pick "Scissors"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... == "Paper" && @computer_pick "Rock"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... "Scissors" && @computer_pick "Paper"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end
+Started GET "/" for ::1 at 2019-04-15 21:19:36 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+...k == "Rock" && @computer_pick "Scissors"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... == "Paper" && @computer_pick "Rock"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... "Scissors" && @computer_pick "Paper"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:59: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:61: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:63: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:70: syntax error, unexpected end-of-input, expecting end
+Started GET "/" for ::1 at 2019-04-15 21:19:58 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:69: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:69: syntax error, unexpected end-of-input, expecting end
+Started GET "/" for ::1 at 2019-04-15 21:20:25 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 115ms (Views: 113.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:20:28 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 33ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 21:20:33 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 23ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:20:42 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 27ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 21:20:43 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:20:47 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 21:21:02 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 21:21:08 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 35ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:21:09 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 33ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:21:11 +1000
+  
+AbstractController::ActionNotFound (The action 'psrresult' could not be found for PagesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/psr" for ::1 at 2019-04-15 21:21:41 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:60: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+...k == "Rock" && @computer_pick "Scissors"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:62: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... == "Paper" && @computer_pick "Rock"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:64: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... "Scissors" && @computer_pick "Paper"
+...                              ^):
+  
+app/controllers/pages_controller.rb:60: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:62: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:64: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+Started POST "/psr" for ::1 at 2019-04-15 21:22:15 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:60: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+...k == "Rock" && @computer_pick "Scissors"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:62: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... == "Paper" && @computer_pick "Rock"
+...                              ^
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:64: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+... "Scissors" && @computer_pick "Paper"
+...                              ^):
+  
+app/controllers/pages_controller.rb:60: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:62: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+app/controllers/pages_controller.rb:64: syntax error, unexpected tSTRING_BEG, expecting then or ';' or '\n'
+Started POST "/psr" for ::1 at 2019-04-15 21:24:37 +1000
+  
+AbstractController::ActionNotFound (The action 'psrresult' could not be found for PagesController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/psr" for ::1 at 2019-04-15 21:25:11 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:25:12 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:25:37 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 104ms (Views: 100.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:25:39 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 18ms (Views: 17.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:25:46 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:25:47 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:25:48 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 150ms (Views: 129.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:25:49 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:26:54 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:27:29 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 20ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:27:32 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:30:23 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 66ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:30:25 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 27ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:30:57 +1000
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/games_on_rails/games_on_railss/app/controllers/pages_controller.rb:71: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/pages_controller.rb:71: syntax error, unexpected end-of-input, expecting end
+Started GET "/psr" for ::1 at 2019-04-15 21:32:33 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 72ms (Views: 69.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:32:35 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:32:38 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 18ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:32:40 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 25ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:32:43 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:34:37 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:34:39 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:34:44 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:35:35 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 55ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 21:35:45 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 21:35:48 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 30ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 21:35:51 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 20ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 21:35:53 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 46ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 21:35:54 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 21:35:55 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 18ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-15 21:35:56 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 21:36:01 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-15 21:36:04 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userguess"=>"6"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 21:36:08 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 21:36:26 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-15 21:36:28 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:36:35 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 25ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:36:47 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 49ms (Views: 44.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-15 21:39:26 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 98ms (Views: 95.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-15 21:39:30 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-15 21:39:32 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 48ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-15 21:39:36 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 69ms (Views: 68.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-16 10:11:55 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (16.8ms)
+Completed 200 OK in 273ms (Views: 263.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-16 10:11:59 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 55ms (Views: 51.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-16 10:12:02 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 56ms (Views: 54.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:12:03 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 31ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:12:04 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 42ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:12:05 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 43ms (Views: 41.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-16 10:12:07 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 237ms (Views: 232.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-16 10:12:12 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"5"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-16 10:12:15 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 37ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:12:19 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 31ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-16 10:14:46 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 38ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:14:47 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-16 10:14:50 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 31ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-16 10:15:03 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 30ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-16 10:15:05 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-16 10:15:06 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 34ms (Views: 32.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-16 10:15:07 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 32ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-16 10:15:09 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 36ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-16 10:15:10 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 90ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/magic8" for ::1 at 2019-04-16 10:15:12 +1000
+Processing by PagesController#magic8 as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:15:13 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 23ms (Views: 21.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:15:14 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/magic8" for ::1 at 2019-04-16 10:15:15 +1000
+Processing by PagesController#magic8result as HTML
+  Rendering pages/magic8.html.erb within layouts/application
+  Rendered pages/magic8.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 46ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/secretnumber" for ::1 at 2019-04-16 10:15:18 +1000
+Processing by PagesController#secretnumber as HTML
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 147ms (Views: 145.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-16 10:15:20 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-16 10:15:22 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-16 10:15:26 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 32ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-16 10:15:31 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/secretnumber" for ::1 at 2019-04-16 10:15:31 +1000
+Processing by PagesController#snresult as HTML
+  Parameters: {"userguess"=>"1"}
+  Rendering pages/secretnumber.html.erb within layouts/application
+  Rendered pages/secretnumber.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-16 10:15:32 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 30ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:15:34 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:15:41 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Scissors"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:15:43 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:15:44 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:15:45 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Paper"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 26ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/psr" for ::1 at 2019-04-16 10:15:48 +1000
+Processing by PagesController#psr as HTML
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 38ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/psr" for ::1 at 2019-04-16 10:15:51 +1000
+Processing by PagesController#psrresult as HTML
+  Parameters: {"userpick"=>"Rock"}
+  Rendering pages/psr.html.erb within layouts/application
+  Rendered pages/psr.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for ::1 at 2019-04-16 10:15:53 +1000
+Processing by PagesController#home as HTML
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 28ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+

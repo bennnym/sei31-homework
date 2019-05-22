@@ -1,0 +1,23 @@
+<h2><%= @mood.mood %></h2>
+
+<% unless @mood.actors.empty? %>
+  <h3>Moods</h3>
+  <ul>
+    <% @mood.actors.each do |actor| %>
+      <li>
+        <a href="/actors/<%= actor.id %>">
+          <%= actor.mood %>
+        </a>
+      </li>
+    <% end %>
+  </ul>
+<% end %>
+
+<% unless <@mood></@mood>.image.nil? || @mood.image.empty? %>
+  <img class="feature" src="<%= @mood.image %>" alt="<%= @mood.mood %>">
+<% end %>
+
+<div class="controls">
+  <a href="/moods/<%= @mood.id %>/edit">Edit</a>
+  <a href="/moods/<%= @mood.id %>/delete">Delete</a>
+</div>

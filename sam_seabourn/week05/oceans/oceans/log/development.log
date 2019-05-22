@@ -1,0 +1,571 @@
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (1.6ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+Migrating to CreateOceans (20190416102332)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "oceans" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" text, "image" text, "size" float)[0m
+  ↳ db/migrate/20190416102332_create_oceans.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20190416102332"]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[36mActiveRecord::InternalMetadata Create (0.8ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2019-04-16 10:53:04.393213"], ["updated_at", "2019-04-16 10:53:04.393213"]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (1.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib/rake/task.rb:273
+  [1m[36mOcean Load (0.2ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ db/seeds.rb:8
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:10
+  [1m[36mOcean Create (0.8ms)[0m  [1m[32mINSERT INTO "oceans" ("name", "image", "size") VALUES (?, ?, ?)[0m  [["name", "Pacific"], ["image", "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"], ["size", 133.0]]
+  ↳ db/seeds.rb:10
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:10
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:11
+  [1m[36mOcean Create (0.6ms)[0m  [1m[32mINSERT INTO "oceans" ("name", "image", "size") VALUES (?, ?, ?)[0m  [["name", "Indian"], ["image", "https://images.unsplash.com/photo-1488921618671-463b781ac428?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"], ["size", 2022.0]]
+  ↳ db/seeds.rb:11
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:11
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mOcean Create (0.8ms)[0m  [1m[32mINSERT INTO "oceans" ("name", "image", "size") VALUES (?, ?, ?)[0m  [["name", "Indian"], ["image", "https://a.wattpad.com/cover/48010147-352-k273841.jpg"], ["size", 2233.0]]
+  ↳ db/seeds.rb:12
+  [1m[35m (10.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+Started GET "/" for ::1 at 2019-04-16 21:24:12 +1000
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/samseabourn/.rvm/gems/ruby-2.6.2/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 1517ms (Views: 1509.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:31:16 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 45ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:31:27 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 29ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:32:49 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 39ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:33:16 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:34:53 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (2.3ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/oceans/oceans/app/views/oceans/index.html.erb:9: syntax error, unexpected end-of-input, expecting end):
+  
+app/views/oceans/index.html.erb:9: syntax error, unexpected end-of-input, expecting end
+Started GET "/oceans" for ::1 at 2019-04-16 21:35:11 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (1.1ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:8
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:8
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:8
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:8
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:4
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:4
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:4
+  [1m[36mCACHE Ocean Load (0.0ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:4
+  Rendered oceans/index.html.erb within layouts/application (364.4ms)
+Completed 500 Internal Server Error in 372ms (ActiveRecord: 3.3ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `oceans' for #<#<Class:0x00007ff195d1ddf8>:0x00007ff196672930>
+Did you mean?  oceans_url):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% oceans.each do |ocean| %>
+    4: <%= image_tag ocean.image %>
+    5: <% end %>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337793595580'
+Started GET "/oceans" for ::1 at 2019-04-16 21:35:20 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @oceans.each do |ocean| %>
+    4: <%= image_tag ocean.image %>
+    5: <% end %>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337793101780'
+Started GET "/oceans" for ::1 at 2019-04-16 21:35:23 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (2.8ms)
+Completed 500 Internal Server Error in 44ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @oceans.each do |ocean| %>
+    4: <%= image_tag ocean.image %>
+    5: <% end %>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337787278380'
+Started GET "/oceans" for ::1 at 2019-04-16 21:36:20 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @ocean.each do |ocean| %>
+    4: <%= image_tag ocean.image %>
+    5: <% end %>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337825194460'
+Started GET "/oceans" for ::1 at 2019-04-16 21:37:57 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/oceans/oceans/app/views/oceans/index.html.erb:3: syntax error, unexpected =>, expecting end
+...ocean.each do |ocean| :class => 'thumb'
+...                             ^~
+/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/oceans/oceans/app/views/oceans/index.html.erb:12: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/oceans/index.html.erb:3: syntax error, unexpected =>, expecting end
+app/views/oceans/index.html.erb:12: syntax error, unexpected ensure, expecting end-of-input
+Started GET "/oceans" for ::1 at 2019-04-16 21:40:33 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/samseabourn/Projects/sei31-homework/sam_seabourn/week05/oceans/oceans/app/views/oceans/index.html.erb:9: syntax error, unexpected end-of-input, expecting end):
+  
+app/views/oceans/index.html.erb:9: syntax error, unexpected end-of-input, expecting end
+Started GET "/oceans" for ::1 at 2019-04-16 21:40:49 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @ocean.each do |ocean| %>
+    4: <h1> ocean </h1>
+    5: <% end %>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337824693580'
+Started GET "/oceans" for ::1 at 2019-04-16 21:42:15 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 44ms (Views: 38.7ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:43:40 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 23ms (Views: 21.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:43:57 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.2ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 30ms (Views: 25.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:44:09 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 22ms (Views: 20.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:46:21 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.2ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 27ms (Views: 25.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/oceans" for ::1 at 2019-04-16 21:46:32 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (15.1ms)
+Completed 500 Internal Server Error in 41ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `image' for #<Ocean::ActiveRecord_Relation:0x00007ff196cc6200>):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @oceans.each do |ocean| %>
+    4: <h1> <%= @oceans.image %> </h1>
+    5: <h1> <%= @oceans.size %> </h1>
+    6: <% end %>
+  
+app/views/oceans/index.html.erb:4:in `block in _app_views_oceans_index_html_erb__4351940078785335899_70337796909120'
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337796909120'
+Started GET "/oceans" for ::1 at 2019-04-16 21:46:53 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (10.4ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `image' for #<Ocean::ActiveRecord_Relation:0x00007ff1965fbe70>):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @oceans.each do |ocean| %>
+    4: <h1> <%= @oceans.image %> </h1>
+    5: <h1> <%= @oceans.size %> </h1>
+    6: <% end %>
+  
+app/views/oceans/index.html.erb:4:in `block in _app_views_oceans_index_html_erb__4351940078785335899_70337793349360'
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337793349360'
+Started GET "/" for ::1 at 2019-04-16 21:46:57 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.4ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (10.2ms)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (undefined method `image' for #<Ocean::ActiveRecord_Relation:0x00007ff196598f50>):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @oceans.each do |ocean| %>
+    4: <h1> <%= @oceans.image %> </h1>
+    5: <h1> <%= @oceans.size %> </h1>
+    6: <% end %>
+  
+app/views/oceans/index.html.erb:4:in `block in _app_views_oceans_index_html_erb__4351940078785335899_70337796487180'
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337796487180'
+Started GET "/" for ::1 at 2019-04-16 21:47:03 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.2ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 24ms (Views: 22.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:47:40 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `first' for nil:NilClass):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <%= @ocean.first %>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337793085820'
+Started GET "/" for ::1 at 2019-04-16 21:48:33 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 46ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:48:49 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 47ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:48:57 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 107ms (Views: 100.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:49:08 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 600ms (Views: 590.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:49:24 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 347ms (Views: 341.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:49:35 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 322ms (Views: 317.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:50:19 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (44.2ms)
+Completed 200 OK in 691ms (Views: 684.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:51:21 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:51:34 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:51:51 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 43ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:52:46 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.4ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" LIMIT ?[0m  [["LIMIT", 11]]
+  ↳ /Users/samseabourn/.rvm/rubies/ruby-2.6.2/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib/did_you_mean/core_ext/name_error.rb:8
+  Rendered oceans/index.html.erb within layouts/application (24.9ms)
+Completed 500 Internal Server Error in 33ms (ActiveRecord: 2.9ms)
+
+
+  
+ActionView::Template::Error (undefined method `image' for #<Ocean::ActiveRecord_Relation:0x00007ff1965a22f8>):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <h1>    <%= @oceans.image %>    </h1>
+  
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337817468060'
+Started GET "/" for ::1 at 2019-04-16 21:53:07 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.4ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" ORDER BY "oceans"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 45ms (Views: 41.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:53:20 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" ORDER BY "oceans"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 36ms (Views: 33.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:53:49 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.2ms)[0m  [1m[34mSELECT  "oceans".* FROM "oceans" ORDER BY "oceans"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 41ms (Views: 38.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:54:00 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  Rendered oceans/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 39ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:54:35 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (11.4ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `image' for #<Ocean::ActiveRecord_Relation:0x00007ff19667a310>):
+    1: <h1> All Oceans </h1>
+    2: 
+    3: <% @oceans.each do |ocean| %>
+    4: <h1> <%= @oceans.image %> </h1>
+    5: <h1> <%= @oceans.size %> </h1>
+    6: <% end %>
+  
+app/views/oceans/index.html.erb:4:in `block in _app_views_oceans_index_html_erb__4351940078785335899_70337793629900'
+app/views/oceans/index.html.erb:3:in `_app_views_oceans_index_html_erb__4351940078785335899_70337793629900'
+Started GET "/" for ::1 at 2019-04-16 21:55:24 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.4ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 24ms (Views: 20.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for ::1 at 2019-04-16 21:56:46 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.5ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 37ms (Views: 34.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/oceans/1" for ::1 at 2019-04-16 21:57:24 +1000
+  
+AbstractController::ActionNotFound (The action 'show' could not be found for OceansController):
+  
+actionpack (5.2.3) lib/abstract_controller/base.rb:129:in `process'
+actionview (5.2.3) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.3) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.3) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.3) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.3) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.0.7) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+actionpack (5.2.3) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.3) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.3) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.3) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2019-04-16 21:57:28 +1000
+Processing by OceansController#index as HTML
+  Rendering oceans/index.html.erb within layouts/application
+  [1m[36mOcean Load (0.3ms)[0m  [1m[34mSELECT "oceans".* FROM "oceans"[0m
+  ↳ app/views/oceans/index.html.erb:3
+  Rendered oceans/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 41ms (Views: 38.6ms | ActiveRecord: 0.3ms)
+
+

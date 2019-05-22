@@ -1,0 +1,21 @@
+<h2>Edit <%= @director["name"] %></h2>
+
+<form action="/directors/<%= @director["id"] %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" value="<%= @director["name"] %>" placeholder="Director Name">
+  </label>
+
+  <label>
+    Age:
+    <input type="text" name="age" value="<%= @director["age"] %>" placeholder="Director Age">
+  </label>
+
+  <label>
+    Photo:
+    <input type="text" name="photo" value="<%= @director["photo"] %>" placeholder="URL of photo">
+  </label>
+
+  <button>Update Director</button>
+
+</form>

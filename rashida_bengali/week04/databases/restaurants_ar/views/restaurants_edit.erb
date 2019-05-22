@@ -1,0 +1,30 @@
+<h2>Edit a Restaurant</h2>
+
+<form action="/restaurants/<%= @restaurant["id"] %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" value="<%= @restaurant["name"]  %>" required autofocus>
+  </label>
+
+  <label>
+    Cuisine Type:
+    <select name="cuisine_id">
+      <option></option>
+      <% Cuisine.all.each do |c| %>
+        <option value="<%= c.id %>" <%= "selected" if c.id == @restaurant.cuisine_id %>><%= c.name %></option>
+      <% end %>
+    </select>
+  </label>
+
+  <label>
+    Location:
+    <input type="text" name="location" value="<%= @restaurant["location"]  %>">
+  </label>
+
+  <label>
+    Image:
+    <input type="text" name="image" value="<%= @restaurant["image"]  %>">
+  </label>
+
+  <button name="button">Update Details</button>
+</form>

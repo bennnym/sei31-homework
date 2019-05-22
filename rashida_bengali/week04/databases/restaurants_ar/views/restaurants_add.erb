@@ -1,0 +1,30 @@
+<h2>Create a New Restaurant</h2>
+
+<form action="/restaurants" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" placeholder="Restaurant Name">
+  </label>
+
+  <label>
+    Cuisine Type:
+    <select name="cuisine_id">
+      <option></option>
+      <% Cuisine.all.each do |c| %>
+        <option value="<%= c.id %>"><%= c.name %></option>
+      <% end %>
+    </select>
+  </label>
+
+  <label>
+    Location:
+    <input type="text" name="location" placeholder="Suburb Name">
+  </label>
+
+  <label>
+    Image:
+    <input type="text" name="image" placeholder="http://">
+  </label>
+
+  <button name="button">Add Restaurant</button>
+</form>

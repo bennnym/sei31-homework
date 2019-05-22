@@ -51,6 +51,7 @@ const planTrip = function (startLine, startStop, endLine, endStop) {
     let returnStops = getStops(startLine, startStop, endStop);
     console.log(`You must travel through the following stops on the ${startLine} line: ${returnStops}`);
   } else {
+    //Union Square transit
     let returnStops1 = getStops(startLine, startStop, 'Union Square');
     console.log(`You must travel through the following stops on the ${startLine} line: ${returnStops1}`);
     console.log(`Change at Union Square.`);
@@ -63,3 +64,4 @@ const planTrip = function (startLine, startStop, endLine, endStop) {
 // planTrip('N', 'Times Square', 'N', '8th');
 // planTrip('N', 'Times Square', 'L', '8th');
 // planTrip('6', 'Grand Central', 'L', '6th');
+planTrip('L', '8th', '6', 'Astor Place');

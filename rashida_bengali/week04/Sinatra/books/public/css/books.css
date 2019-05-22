@@ -1,0 +1,27 @@
+body {
+  color: black;
+  background-color: blue;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 30%;
+  background-color: rgba(100, 255, 100, 0.5);
+  padding: 1em;
+}
+
+p {
+  color: #f2b546;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+span {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #B1001B;
+}

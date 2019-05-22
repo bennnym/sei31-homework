@@ -87,7 +87,7 @@ const array2 = ["hello", "goodbye", "farewell", "good-morning"];
 
 const filterLongWords = function (input, i){
   let longestWords = [];
-   for (var i = 3; i < array2.length; i++){
+   for (var i = 0; i < array2.length; i++){
      if (array2[i].length>i){
               longestWords.push(array2[i]);
 }

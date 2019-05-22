@@ -1,0 +1,8 @@
+<h1>All Oceans</h1>
+
+<% @oceans.each do |ocean|%>
+<%= image_tag ocean.image, :class => 'thumb' %>
+<ul>
+  <li>Name: <%= link_to ocean.name, ocean_path(ocean.id) %></li>
+</ul>
+<% end %>

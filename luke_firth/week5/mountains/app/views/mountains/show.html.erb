@@ -1,0 +1,9 @@
+<%= @mountain.name %>
+<hr>
+<%= image_tag @mountain.image %>
+
+<ul>
+    <li>Elevation: <%= @mountain.elevation %></li>
+    <li>Prominence Rank: <%= @mountain.prominence.ordinalize %></li>
+
+</ul>

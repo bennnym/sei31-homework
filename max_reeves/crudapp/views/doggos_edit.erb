@@ -1,0 +1,20 @@
+<h2>Train Doggos</h2>
+
+<form action="/doggos/<%= @doggo["id"] %>" method="post">
+  <label>
+    Name of Doggo:
+    <input type="text" name="name" value="<%= @doggo["name"] %>" placeholder="Doggo name" required autofocus>
+  </label>
+
+  <label>
+    Treats they Like:
+    <input type="text" name="treats" value="<%= @doggo["treats"] %>" placeholder="Doggo treats">
+  </label>
+
+  <label>
+    Image of Pupperino:
+    <input type="url" name="image" value="<%= @doggo["image"] %>" placeholder="http://...">
+  </label>
+
+  <button>Update Doggos</button>
+</form>

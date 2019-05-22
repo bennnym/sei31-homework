@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One');
+
+
+body {
+background-color:white;
+background-image: linear-gradient(90deg, rgba(200,0,0,.5) 50%, transparent 50%),
+linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%);
+background-size:50px 50px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: brown;
+  font-family: 'Germania One', cursive;
+  text-align: center;
+  border-radius: 10%;
+}
+
+h2 {
+  margin: 10px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+h1 {
+  margin-bottom: 5px;
+  background-color: pink;
+  border: 6px solid #E78E89;
+  border-style: outset;
+  font-size: 40px;
+  padding: 10px;
+
+}
+
+.feature {
+  border-radius: 30%;
+  max-width: 100%;
+}
+
+nav {
+  background-color: pink;
+  border: 6px solid #E78E89;
+  border-style: outset;
+  margin: 0 auto;
+}
+
+ nav a {
+  display:inline-block;
+  font-family: 'Londrina Outline', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  color:#AB8544;
+  letter-spacing: 1px;
+  padding: 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+a {
+  display:inline-block;
+  font-family: 'Londrina Outline', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  color:#AB8544;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  color: white;
+}
+
+p {
+  font-size: 20px;
+  padding: 10px;
+}
+
+label, input {
+padding: 10px;
+}
+
+button {
+  margin: 10px;
+  padding: 20px;
+}
+
+a.do {
+  padding: 20px;
+  color:#AB8544;
+}
+
+a.do:hover {
+  color: white;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  border-radius: 10%;
+}

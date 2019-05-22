@@ -1,0 +1,6 @@
+<% @laughs.each do |laugh| %>
+  <p>
+    <a href="/laugh/<%= laugh["id"]  %>" >
+    <%= laugh["name"] %> </a>
+  </p>
+<% end %>

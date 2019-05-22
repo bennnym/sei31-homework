@@ -40,7 +40,7 @@ const planTrip = function(line1, station1, line2, station2) {
 
   //second trip
   let numberOfStopsSecond = 0;
-  let stopNames2 = " ";
+  let stopNames2 = "";
   if (unionSquareSecond > stop) {
     for (var i = stop; i < unionSquareSecond; i++) {
       numberOfStopsSecond++;
@@ -65,3 +65,4 @@ const planTrip = function(line1, station1, line2, station2) {
 planTrip('N', 'Times Square', 'N', 'Union Square');
 planTrip('N', 'Times Square', '6', '33rd');
 planTrip('6', '33rd', 'L', '8th');
+planTrip('L', '1st', 'N', 'Times Square');

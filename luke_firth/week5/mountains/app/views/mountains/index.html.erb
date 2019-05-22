@@ -1,0 +1,11 @@
+<h1>Most of the good Mountains</h1>
+
+<% @mountains.each do |mountain| %>
+  <%= image_tag mountain.image, :class => 'thumb' %>
+
+  <ul>
+    <li>Name: <%= link_to mountain.name, mountain_path(mountain.id) %></li>
+    <li>Elevation: <%= mountain.elevation %></li>
+    <li>Prominence Rank: <%= mountain.prominence.ordinalize %></li>
+  </ul>
+<% end %>

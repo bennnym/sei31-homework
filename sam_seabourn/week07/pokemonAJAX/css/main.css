@@ -1,0 +1,99 @@
+* {
+  /* border: 1px solid magenta; */
+}
+body{
+  background-image: url("http://cdn.collider.com/wp-content/uploads/pokemon-list.png");
+  background-color: rgba(1, 0, 0, 0.5);
+  background-position: center center;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  color: white;
+  background-color: black;
+  padding: 1em 0em 1em 1em;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.display_content{
+ text-align: center;
+ background-color: white;
+ min-width: 880px;
+ box-shadow: 13px 9px 37px 9px rgba(0,0,0,0.51);
+ border-radius: 10px;
+}
+
+h1 {
+  font-family: 'Jua', sans-serif;
+  margin: 0px;
+}
+
+h2 {
+  font-family: 'Jua', sans-serif;
+}
+
+input {
+  width: 14em;
+  margin: 1em 0em 0em 0em;
+}
+
+form {
+  display: inline-block;
+}
+
+.pokemondisplay {
+  display: flex;
+  margin-top: 8%;
+}
+
+.pokemondisplay img {
+    width: auto;
+    height: 114px;
+    margin-top: 8em;
+}
+
+.innerpad {
+  padding:1em;
+}
+
+.pokemonwindow {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 94%;
+  padding: 3%;
+}
+
+.man {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.man img {
+  height: 17.5em;
+  margin-bottom: 10%;
+}
+
+.mon {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+#pokepic {
+  height: 17.5em
+  align-self: center
+}

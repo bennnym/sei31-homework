@@ -1,0 +1,16 @@
+<h2><%= @restaurant["name"] %></h2>
+
+<% unless @restaurant.cuisine.nil? %>
+<h3>Cuisine Type: <em><a href="/cuisines/<%= @restaurant.cuisine.id %>"><%= @restaurant.cuisine.name %></a></em></h3>
+<% end %>
+
+<h3>Location: <em><%= @restaurant["location"] %></em></h3>
+
+<% unless @restaurant["image"].nil? %>
+<img class="feature" src="<%= @restaurant["image"] %>">
+<% end %>
+
+<div class="controls">
+  <a class="do" href="/restaurants/<%= @restaurant["id"] %>/edit">Edit</a>
+  <a class="do" href="/restaurants/<%= @restaurant["id"] %>/delete">Delete</a>
+</div>

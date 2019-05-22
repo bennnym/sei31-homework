@@ -1,0 +1,28 @@
+<h3>New Books</h3>
+<form action="/stories/" method="post">
+<label >
+  Name of Book:
+  <input type="text" name="name" placeholder="Write Book Name" required autofocus>
+</label>
+
+<label>
+  Type of Book:
+  <input type="text" name="family" placeholder="Write Type of Book">
+</label>
+
+<label >
+  Image:
+  <input type="text" name="image" placeholder="http://...">
+</label>
+
+<label>
+  Famous Author:
+  <select name="author_id">
+    <option></option>
+    <% Author.all.each do |author| %>
+      <option value="<%= author.id %>" <%= "selected" if author.id == @story.author_id %>><%= author.name %></option>
+    <% end %>
+  </select>
+</label>
+<button>Update Book!!</button>
+</form>

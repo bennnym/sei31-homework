@@ -1,0 +1,13 @@
+<h2> Lie Editor </h2>
+<p> <%= @lies["lie"] %></p>
+<form action="/lies/<%= @lies["id"] %>" method="post">
+<label>
+  :Username
+  <input type="text" name="username" value="<%= @lies["username"] %>" placeholder="The Shadow69">
+</label>
+<label>
+  :Change Lie
+  <input type="text" name="lie" value="<%= @lies["lie"] %>" placeholder="Cat's techincally aren't felines">
+</label>
+<button>Updtate</button>
+</form>

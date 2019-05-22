@@ -1,0 +1,12 @@
+<h2><%= @director["name"] %></h2>
+
+<h3>Age: <em><%= @director["age"] %></em></h3>
+
+<% unless @director["photo"].nil? %>
+  <img class="feature" src="<%= @director["photo"] %>" alt="<%= @director["name"] %>">
+<% end %>
+
+<div class="controls">
+  <a href="/directors/<%= @director["id"] %>/edit">Edit</a>
+  <a href="/directors/<%= @director["id"] %>/delete">Delete</a>
+</div>

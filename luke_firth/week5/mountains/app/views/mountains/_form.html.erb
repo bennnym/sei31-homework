@@ -1,0 +1,13 @@
+<%= form_for @mountain do |f| %>
+  <%= f.label :name %>
+  <%= f.text_field :name, :autofocus => true, :required => true %>
+  <%= f.label :elevation %>
+  <%= f.text_field :elevation, :placeholder => 'meters' %>
+  <%= f.label :prominence  %>
+  <%= f.text_field :prominence, :placeholder => 'rank' %>
+  <%= f.label :location %>
+  <%= f.text_field :location %>
+  <%= f.label :image %>
+  <%= f.url_field :image, :placeholder => 'http://' %>
+  <%= f.submit %>
+<% end %>

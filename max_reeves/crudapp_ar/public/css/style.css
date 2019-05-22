@@ -1,0 +1,19 @@
+body {
+	background-image: url(/images/cheese.png);
+
+	background-repeat: repeat;
+
+	background-size: cover;
+
+	color: black;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+	text-align: center;
+}
+
+.feature {
+  max-width: 100%;
+}

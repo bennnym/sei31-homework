@@ -1,0 +1,9 @@
+<h2>All Doggos</h2>
+
+<% @doggo.each do |doggo| %>
+  <p>
+    <a href="/doggos/<%= doggo["id"] %>">
+      <%= doggo["name"] %>
+    </a>
+  </p>
+<% end %>

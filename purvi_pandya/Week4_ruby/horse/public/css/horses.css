@@ -1,0 +1,100 @@
+body {
+  background-image: url(../image/horse.jpg);
+  background-size: cover;
+
+}
+.container {
+  max-width:960px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1, h2{
+  color: orange;
+
+}
+.para{
+  text-align: justify;
+}
+p{
+  color: white;
+  font-size: 25px;
+  line-height: 1.5;
+  text-align: center;
+}
+.link{
+  color: pink;
+  text-decoration:none;
+}
+.new {
+  max-width: 100%;
+  margin-top: 10px;
+  border: 2px solid black;
+  border-radius: 5em;
+}
+
+nav{
+  text-align: center;
+  background: #000;
+  padding: 10px;
+  margin:0 10px;
+}
+nav a{
+  color: #fff;
+  margin: 0 10px;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+
+}
+a:hover{
+  background-color:brown;
+  padding: 10px;
+  border-radius: 10%;
+}
+label{
+  color: pink;
+  font-size: 20px;
+}
+input {
+  background-color: rgba(255,255,255, 0.5);
+  color: #000;
+  padding:10px;
+  font-size: 17px;
+  border: 2px solid pink;
+}
+
+button{
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+button:hover{
+  font-size: 20px;
+  background-color: black;
+}
+h3{
+  background-color: white;
+  width:300px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+.control {
+  margin-top: 10px;
+
+}
+.control a {
+color: white;
+text-decoration: none;
+background-color: black;
+margin: 10px;
+padding: 8px;
+border-radius: 20px;
+}
+.control a:hover{
+  color: red;
+  font-size: 15px;
+}

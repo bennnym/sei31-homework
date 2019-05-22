@@ -1,0 +1,13 @@
+<h1><%= @mountain.name %></h1>
+<%= image_tag @mountain.image, :class => 'feature' %>
+<div class="info">
+  <ul>
+    <li>Name: <%= @mountain.name %></li>
+    <li>Country: <%= @mountain.country %></li>
+    <li>Cuty: <%= @mountain.city %></li>
+  </ul>
+  <div class="controls">
+    <p class="edit"> <%= link_to 'Edit Mountain', edit_mountain_path(@mountain.id) %> </p>
+    <p class="delete"> <%= link_to 'Delete Mountain', mountain_path(@mountain.id), :method => 'delete' %></p>
+  </div>
+</div>

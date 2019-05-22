@@ -1,0 +1,9 @@
+<h2>All Moods</h2>
+
+<% @moods.each do |mood| %>
+  <p>
+    <a href="/moods/<%=  mood.id %>">
+      <%=  mood.mood %>
+    </a>
+  </p>
+<% end %>

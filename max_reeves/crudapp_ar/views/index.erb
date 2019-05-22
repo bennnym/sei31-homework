@@ -1,0 +1,7 @@
+<% @cheeses.each do |chez| %>
+  <p>
+    <a href="/cheeses/<%= chez["id"] %>">
+      <%= chez["name"] %>
+    </a>
+  </p>
+<% end %>

@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://media.giphy.com/media/fnlXXGImVWB0RYWWQj/giphy.gif");
+    
+    /* Image is centered vertically and horizontally at all times */
+    background-position: top center;
+    
+    /* Image doesn't repeat */
+    background-repeat: no-repeat;
+    
+    /* Makes the image fixed in the viewport so that it doesn't move when 
+       the content height is greater than the image height */
+    background-attachment: fixed;
+    
+    /* This is what makes the background image rescale based on its container's size */
+    background-size: cover;
+  
+    background-color: #669cd6cf;
+  }
+
+  select {
+    display: inline-flex;
+    }
+
+  img {
+    max-width: 100%;
+    object-fit: cover;
+    border: 6px solid #009250;
+    border-radius: 10%;
+  }
+
+  .container {
+    vertical-align: center;
+    text-align: center;
+    max-width: 960px; /* common value, responsive design */
+    margin: 0 auto;
+    
+    padding: 1em; /*space inside the box*/
+     /*space outside the box*/
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    background-color:#66d6d270;
+    }

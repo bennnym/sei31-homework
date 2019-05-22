@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Capriola&subset=latin-ext');
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: grad
+  font-family: 'Capriola', sans-serif;
+  text-decoration: none;
+
+}
+nav{
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+a{
+  padding: 15px 40px;
+
+  color: black;
+}
+
+h1{
+  margin-top: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}

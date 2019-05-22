@@ -1,0 +1,10 @@
+<h3><%= @story["name"] %></h3>
+<h3>Class: <%= @story["family"] %></h3>
+
+<% unless @story["image"].nil? %>
+<img src="<%= @story["image"]%>" alt="<%= @story["name"] %>">
+<% end %>
+<div class="control">
+  <a href="/stories/<%= @story["id"] %>/edit">EDIT</a>
+  <a href="/stories/<%= @story["id"] %>/delete">DELETE</a>
+</div>

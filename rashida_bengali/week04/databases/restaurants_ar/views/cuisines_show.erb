@@ -1,0 +1,13 @@
+<h2><%= @cuisine["name"] %></h2>
+
+<% unless @cuisine.restaurants.empty? %>
+<h3>Restaurants Available: </h3>
+  <% @cuisine.restaurants.each do |r| %>
+  <p><a href="/restaurants/<%= r.id %>"><%= r.name %></a></p>
+  <% end %>
+<% end %>
+
+<div class="controls">
+  <a class="do" href="/cuisines/<%= @cuisine["id"] %>/edit">Edit</a>
+  <a class="do" href="/cuisines/<%= @cuisine["id"] %>/delete">Delete</a>
+</div>

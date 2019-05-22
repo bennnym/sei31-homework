@@ -1,0 +1,25 @@
+<h3><%= @director.name %></h3>
+
+<%= image_tag @director.image, :class => 'feature' if @director.image.present? %>
+
+<ul>
+  <li><em>Nationality:</em> <%= @director.nationality %></li>
+  <% if @director.dob.present? %>
+  <li><em>Date of Birth:</em> <%= @director.dob.strftime '%A, %B %e, %Y' %></li>
+  <% end %>
+  <li><em>Twitter:</em> <%= link_to '@' + @director.name.split.join(""), @director.twitter%></li>
+  <li><em>Net worth:</em> <%= number_to_currency number_to_human @director.worth %></li>
+  <li><em>Awards:</em> <%= @director.awards %></li>
+</ul>
+
+<% if @director.movies.present? %>
+<h4>Movies:</h4>
+<% @director.movies.each do |m| %>
+<%= link_to m.name, movie_path(m.id), :class => 'do' %>
+<% end %>
+<% end %>
+
+<div class="controls">
+  <%= link_to 'Edit Director', edit_director_path(@director.id), :class => 'do' %>
+  <%= link_to 'Delete Director', director_path(@director.id), :method => 'delete', :data => {:confirm => 'Are you sure?'}, :class => 'do' %>
+</div>

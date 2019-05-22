@@ -1,0 +1,11 @@
+<h2><%= @doggo["name"] %></h2>
+<h3>Treats: <em><%= @doggo["treats"] %></em></h3>
+
+<% unless @doggo["image"].nil? %>
+  <img class="feature" src="<%= @doggo["image"] %>" alt="<%= @doggo["name"] %>">
+<% end %>
+
+<div class="controls">
+  <a href="/doggos/<%= @doggo["id"] %>/edit">Edit</a>
+  <a href="/doggos/<%= @doggo["id"] %>/delete">Delete</a>
+</div>

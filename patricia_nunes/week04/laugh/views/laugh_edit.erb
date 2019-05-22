@@ -1,0 +1,21 @@
+<h2>You really think that edit is necessary?</h2>
+
+<form action="/laugh/<%= @laugh["id"] %>" method="post">
+
+  <label>
+    Name:
+  <input type="text" name="name" placeholder="The best name" required autofocus>
+  </label>
+
+  <label>
+    Laugh:
+  <input type="text" name="laugh" placeholder="How much funny is?">
+  </label>
+
+  <label>
+    Gif:
+  <input type="url" name="gif" placeholder="We need of the link">
+  </label>
+
+  <button>Update the funniest Gif 😅</button>
+</form>

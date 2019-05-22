@@ -1,0 +1,27 @@
+<h2>New Actor</h2>
+
+<form action="/actors" method="post">
+  <label>
+  First Name:
+  <input type="text" name="firstName" placeholder="first name" required autofocus>
+  </label>
+  <label>
+  Last Name:
+  <input type="text" name="lastName" placeholder="last name" required autofocus>
+  </label>
+  <label>
+  Actor Shot:
+  <input type="text" name="actorShot" placeholder="http://..." required autofocus>
+  </label>
+  <label>
+      Actor Mood:
+      <select name="mood_id">
+        <option></option>
+        <% Moods.all.each do |mood| %>
+          <option value="<%= mood.id %>"><%= mood.mood %></option>
+        <% end %>
+      </select>
+    </label>
+
+<button>Create Actor </button>
+</form>

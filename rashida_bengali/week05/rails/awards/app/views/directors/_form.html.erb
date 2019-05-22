@@ -1,0 +1,17 @@
+<%= form_for @director do |f| %>
+  <%= f.label :name %>
+  <%= f.text_field :name, :autofocus => true, :required => true %>
+  <%= f.label :nationality %>
+  <%= f.text_field :nationality %>
+  <%= f.label :Date_of_Birth %>
+  <%= f.text_field :dob %>
+  <%= f.label :twitter %>
+  <%= f.url_field :twitter %>
+  <%= f.label :NetWorth %>
+  <%= f.text_field :worth %>
+  <%= f.label :awards %>
+  <%= f.text_field :awards %>
+  <%= f.label :image %>
+  <%= f.url_field :image %>
+  <%= f.submit %>
+<% end %>

@@ -1,0 +1,16 @@
+<h2>Do you have a test for that?</h2>
+
+<button type="button" class="yes" onclick="window.location = '/test_pass'">Yes</button>
+<button type="button" class="no" onclick="window.location = '/write_test'">No</button>
+
+<!--y (does the test pass) n (write the test done)-->
+
+<!--@b = params[:b]
+ onclick="/test_pass">YES</button>
+<button type="button" name="b" onclick="/write_test">NO
+@title = params[:title]
+url = "https://www.googleapis.com/books/v1/volumes?q=title:#{@title}"
+@info  = HTTParty.get url
+
+@book_cover = @info["items"][0]["volumeInfo"]["imageLinks"]["thumbnail"]
+-->

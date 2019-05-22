@@ -1,0 +1,14 @@
+<h2><%= @restaurant["name"] %></h2>
+
+<h3>Cuisine: <em><%= @restaurant["cuisine"] %></em></h3>
+
+<h3>Location: <em><%= @restaurant["location"] %></em></h3>
+
+<% unless @restaurant["image"].nil? %>
+<img class="feature" src="<%= @restaurant["image"] %>">
+<% end %>
+
+<div class="controls">
+  <a class = "do" href="/restaurants/<%= @restaurant["id"] %>/edit">Edit</a>
+  <a class = "do" href="/restaurants/<%= @restaurant["id"] %>/delete">Delete</a>
+</div>

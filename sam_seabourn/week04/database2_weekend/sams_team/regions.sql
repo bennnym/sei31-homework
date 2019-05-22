@@ -1,0 +1,5 @@
+CREATE TABLE Regions (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT,
+  image TEXT
+);

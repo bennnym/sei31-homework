@@ -1,0 +1,32 @@
+body {
+	background-image: url(/images/doge.jpg);
+
+	background-repeat: no-repeat;
+
+	background-size: cover;
+
+	color: white;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+	text-align: center;
+}
+
+.feature {
+  max-width: 100%;
+}
+
+nav {
+  text-align: right;
+}
+
+a {
+	color: white;
+}
+
+
+nav a {
+  color: white;
+}

@@ -1,0 +1,15 @@
+<h2>Edit Mood</h2>
+
+<form action="/moods/<%= @mood.id %>" method="post">
+  <label>
+    Name:
+    <input type="text" name="name" value="<%= @mood.mood %>" placeholder="Mood" required autofocus>
+  </label>
+
+  <label>
+    Image:
+    <input type="url" name="image" value="<%= @mood.image %>" placeholder="http://...">
+  </label>
+
+  <button>Update mood</button>
+</form>

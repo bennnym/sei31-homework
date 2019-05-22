@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Search</title>
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css'>
+  <link rel='stylesheet' href='css/style.css'>
+
+
+  <script src="js/underscore.js"></script>
+  <script src="js/jquery.js"></script>
+  
+  <script src="js/search.js"></script>
+</head>
+<body>
+
+    <div class="container"></div>
+  
+        <h1>Flickr Image Search</h1>
+        <form id="search">
+            <label>
+            Search Items:
+            <input type="search" id="query" required autofocus placeholder="Butterfly">
+            </label>
+
+        <button id="search">Search</button>
+        </form>
+
+        <!-- The Modal -->
+      <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <div class="slideshowcontainer" id="slideshowcontainer"></div>
+      </div>
+
+        <div id="images"></div>
+    </div>
+
+
+  
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css'>
+
+  <script src="js/jquery.js"></script>
+  <script src="js/underscore.js"></script>
+  <script src="js/main.js"></script>
+  <title>Weather</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Weather Checker</h1>
+
+    <form id="search">
+      <label>
+        Check Weather:
+        <input type="search" id="query" required autofocus placeholder="type City">
+      </label>
+      <button>Search</button>
+    </form>
+
+    <div class="results">
+      <h2 id="city"></h2>
+      <h3 id="basic-forecast"></h3>
+      <ul style="list-style: none;">
+        <li id="current-temp"> </li>
+        <li id='min-temp'></li>
+        <li id='max-temp'></li>
+        <li id='humidity'></li>
+      </ul>
+
+
+
+
+    </div>
+
+
+
+  </div>
+</body>
+</html>

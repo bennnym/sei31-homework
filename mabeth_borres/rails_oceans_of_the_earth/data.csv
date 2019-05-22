@@ -1,0 +1,13 @@
+id,name,continents,area,volume,depth,knownexplorers,image,created_at,updated_at
+11,Arctic,"Europe, North America",15558000,118750000,1205,"",https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fd6792631767f188ec73521b05d12c21d%2F204995298%2F498047592-ed.jpg&client=amp-blogside-v2&signature=ee2a346606c14bbde321c2e4b7361161791c253a,"2019-04-16 14:52:07.695066","2019-04-17 01:26:19.786175"
+12,Atlantic,"Europe, North America, South America, Africa",85133000,310410900,3646,,,"2019-04-16 14:52:07.697075","2019-04-16 14:52:07.697075"
+13,Indian,"Asia, Africa, Australia",,,,,,"2019-04-16 14:52:07.698895","2019-04-16 14:52:07.698895"
+14,Pacific,"Asia, North America, South America, Australia",165250000,,,"Ferdinand Magellan",http://www.serendipitouspanda.com/wp-content/uploads/2017/01/Pacific-Ocean-Sunset.jpg,"2019-04-16 14:52:07.700694","2019-04-17 00:47:39.271281"
+15,Southern,Antarctica,,,,,,"2019-04-16 14:52:07.702313","2019-04-16 14:52:07.702313"
+16,"Sample Ocean",Antarctica,23,3,3,Me,"","2019-04-16 16:58:37.896087","2019-04-16 16:58:37.896087"
+17,"Sample Ocean",,,,,"","","2019-04-16 17:05:59.592792","2019-04-16 17:05:59.592792"
+18,"Sample Ocean 2",,,,,"","","2019-04-16 17:09:22.423560","2019-04-16 17:09:22.423560"
+19,"Sample Ocean 3",,,,,"","","2019-04-16 17:14:37.056775","2019-04-16 17:14:37.056775"
+20,"Sample Ocean 4",Africa,3.27578768798089e+24,800890,8098008,Me,"","2019-04-16 17:15:20.165805","2019-04-16 18:08:24.076773"
+21,"Sample Ocean 5","North America, South America, Australia",,,,"","","2019-04-16 17:18:23.473702","2019-04-16 17:18:23.476576"
+22,"Sample Ocean 123","Africa, Europe, Asia, North America, South America, Australia, Antarctica",23,3,3,Me,"","2019-04-16 17:55:47.255592","2019-04-16 17:55:47.265055"
