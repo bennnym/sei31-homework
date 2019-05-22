@@ -52,3 +52,42 @@ const collatz = function(n, i=1) {
 }
 
 collatz(27)
+
+
+// Mabeth's Solution
+const collatz = (n) => {
+    console.log("\ncollatz for ", n);
+    let stepsodd = 0;
+    let stepseven = 0;
+    const coll = [];
+
+    const collatzin = (n) => {
+        coll.push(n);
+        if (n===1) {
+            console.log("stepstotal", (stepsodd + stepseven) );
+            console.log("stepsodd", stepsodd);
+            console.log("stepseven", stepseven);
+            //console.log(coll);
+            return;
+        }
+
+        if (n%2===0) {
+            //even
+            stepseven++;
+            collatzin(n/2);
+        } else {
+            //odd
+            stepsodd++;
+            collatzin( (3*n)+1 );
+        }
+
+    }
+
+    return collatzin( n );
+};
+
+collatz(9);
+collatz(97);
+collatz(27);
+collatz(12);
+collatz(2030);
